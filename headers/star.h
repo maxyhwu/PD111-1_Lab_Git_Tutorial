@@ -1,1 +1,1 @@
-int star;
+int star = 's' + 't' + 'a' + 'r';
