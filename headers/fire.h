@@ -1,1 +1,1 @@
-int fire;
+int fire = 294;
