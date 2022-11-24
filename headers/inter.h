@@ -1,1 +1,1 @@
-int inter;
+int inter = 'i' + 'n' + 't' + 'e' + 'r';
