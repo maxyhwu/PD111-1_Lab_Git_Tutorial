@@ -59,3 +59,4 @@
 # include "headers/fan.h"
 # include "headers/google.h"
 # include "headers/happy.h"
+# include "headers/pdlab.h"
