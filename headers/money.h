@@ -1,1 +1,1 @@
-int money;
+int money = 'm' + 'o' + 'n' + 'e' + 'y';
