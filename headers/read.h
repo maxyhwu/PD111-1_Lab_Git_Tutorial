@@ -1,1 +1,1 @@
-int read;
+int read = 114 + 101 + 97 + 100;
