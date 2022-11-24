@@ -1,0 +1,5 @@
+.vscode
+.DS_Store
+admin
+admin.h
+*.exe
