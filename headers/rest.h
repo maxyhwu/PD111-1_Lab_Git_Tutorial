@@ -1,1 +1,1 @@
-int rest;
+int rest = 'r' + 'e' + 's' + 't';
