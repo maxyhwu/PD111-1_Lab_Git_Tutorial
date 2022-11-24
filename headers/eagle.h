@@ -1,2 +1,2 @@
 int eagle = 'e' + 'a' + 'g' + 'l' + 'e';
-//good
+//good, no bad.
