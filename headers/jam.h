@@ -1,1 +1,1 @@
-int jam;
+int jam = 'j' + 'a' + 'm';
