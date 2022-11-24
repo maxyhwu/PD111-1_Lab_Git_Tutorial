@@ -1,1 +1,1 @@
-int joy;
+int joy = 480;
