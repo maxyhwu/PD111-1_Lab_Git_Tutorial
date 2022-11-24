@@ -1,1 +1,1 @@
-int lion;
+int lion = 'l'+'i'+'o'+'n';
