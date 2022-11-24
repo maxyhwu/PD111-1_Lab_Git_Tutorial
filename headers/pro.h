@@ -1,1 +1,1 @@
-int pro;
+int pro = 'p' + 'r' + 'o' ;
