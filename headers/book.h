@@ -1,1 +1,1 @@
-int book;
+int book = 'b' + 'o' + 'o' + 'k';
